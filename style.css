@@ -4,3 +4,10 @@ body {
     background-attachment: fixed;
     background-size: cover;
   }
+#container {
+  position: relative;
+}
+#giphy {
+  position: absolute;
+  bottom: 1px;
+}
